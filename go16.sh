@@ -29,14 +29,14 @@ export GOROOT=/usr/local/go
 export GOPATH=$""HOME/go
 export GOBIN=$""GOPATH/bin
 export PATH=$""PATH:$""GOBIN:$""GOROOT/bin
-" >> /home/lucas/.profile
+" >> /home/vincent/.profile
 
 
 # Permisos 
 
-mkdir -p /home/lucas/go/src/github.com
-chmod 777 -R /home/lucas/go/src/github.com
-chmod 777 -R /home/lucas/go
+mkdir -p /home/vincent/go/src/github.com
+chmod 777 -R /home/vincent/go/src/github.com
+chmod 777 -R /home/vincent/go
 
 
 echo "\033[0;31mSE RECOMIENDA REINICIAR PARA UN CORRECTO FUNCIONAMIENTO"
