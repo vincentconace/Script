@@ -1,6 +1,6 @@
 # Script
 ## Descargar el archivo
-### moverlo de la carpeta descarga a el Home de WSL
+### Moverlo de la carpeta descarga a el Home de WSL
 ```
 mv go16.sh ~/go16.sh
 ```
