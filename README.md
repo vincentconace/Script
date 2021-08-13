@@ -9,7 +9,7 @@ mv go16.sh ~/go16.sh
 sudo chmod 777 go16.sh
 sudo ./go16.sh
 ```
-## Al finalizar la descarga de Golang correr esete comando
+### Comando para descargar GCC en WSL
 ```
 sudo apt-get install build-essential
 ```
